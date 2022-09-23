@@ -12,3 +12,4 @@ use swagger OAS to make sure server api does not introduce breaking changes
 - run maven commands twise
 1. skip api diff plugin and run only api generate plugin. now there is an api specification file
 2. run maven command again and run the diff plugin
+- this is not idea, But until find a better solution, this could work
